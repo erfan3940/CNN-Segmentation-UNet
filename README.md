@@ -3,9 +3,9 @@
  
  this trained model by little fine tunning can be used to find and count metallurgical defects
  ## the image of my laptop system i used in this projects
- https://github.com/erfan3940/CNN-Segmentation-UNet/blob/main/Screenshot%201.png
- ## results
- https://github.com/erfan3940/CNN-Segmentation-UNet/blob/main/Screenshot%202.png
+ ![System Info] (Screenshot 2.png)
+ ## sample result
+![Sample Result] (Screenshot 1.png)
  * more pictures are shown in segmentation.ipynb file
  * size to be clone is 187 MB
  * to get the dataset and further info plz get in touch with me
